@@ -1,0 +1,4 @@
+[submodule "archeti/isb"]
+	path = archeti/isb
+	url = git@gitlab.com:archeti/isb.git
+	branch = staging
