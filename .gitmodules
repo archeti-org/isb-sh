@@ -2,3 +2,7 @@
 	path = archeti/isb
 	url = git@gitlab.com:archeti/isb.git
 	branch = staging
+[submodule "_submodules/purchase_workflow"]
+	path = _submodules/purchase_workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 14.0
